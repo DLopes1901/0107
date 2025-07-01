@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    background-color: brown;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+img{
+    width: 150px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+p {
+    color: cornflowerblue;
+    font-size: 1.2rem;
+}

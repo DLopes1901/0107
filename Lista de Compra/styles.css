@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+    margin: 0;
+    padding: 20px;
+}
+hl {
+    color: turquoise;
+    text-align: center;
+}
+
+ul {
+    background-color: blue;
+    padding: 20px;
+    border-radius: 0px;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+li {
+    margin: 10px 0;
+    color: crimson;
+}
